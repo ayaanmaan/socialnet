@@ -1,7 +1,6 @@
 SocialNet
 
 Ayaan Maan
-2024EE10213
 
 Introduction
 
